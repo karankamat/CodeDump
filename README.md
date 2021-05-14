@@ -1,2 +1,2 @@
 # CodeDump
-Projects with small applications
+Small projects
